@@ -1,15 +1,21 @@
 Universidad de San Carlos de Guatemala – USAC
+
 Escuela de Formación de Profesores de Enseñanza Media - EFPEM
+
 Cátedra de Computación e Informática - CCI
+
 Licenciatura en la Enseñanza de la Informática y Computación
+
 Curso: Didáctica de la programación
 
 
-PRACTICA BÁSICA DE PHP, GIT y GITHUB
+<div align="center">PRACTICA BÁSICA DE PHP, GIT y GITHUB</div>
 
 
 Carnet: 200713250
+
 Nombre: Eddin Fernando Nij López
+
 ----
 Ejemplos:
 | No.  | Descripción  | Enlace |
@@ -23,4 +29,6 @@ Ejemplos:
 ----
 
 ![](https://scontent.fgua3-2.fna.fbcdn.net/v/t1.0-9/26733384_948463011987807_3677284294722090699_n.png?_nc_cat=108&_nc_sid=85a577&_nc_ohc=-j0aZtZzdzIAX-mC8NP&_nc_ht=scontent.fgua3-2.fna&oh=93b1cb49570a8d3ac4bc9090e403f7d2&oe=5FA80C51)
+
+
 <div align="center">"Id y enseñad a todos"</div>
