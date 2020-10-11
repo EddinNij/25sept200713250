@@ -5,7 +5,7 @@ Licenciatura en la Enseñanza de la Informática y Computación
 Curso: Didáctica de la programación
 
 
-<div align="center">PRACTICA BÁSICA DE PHP, GIT y GITHUB</div>
+PRACTICA BÁSICA DE PHP, GIT y GITHUB
 
 
 Carnet: 200713250
