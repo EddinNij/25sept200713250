@@ -32,7 +32,7 @@ Ejemplos:
     a. Clase: son funciones especiales como las expresiondes de funciones y declaración de funciones.
     b. Objeto: unidad dentro de un programa informático que tiene un estado y un comportamiento.
     c. Isntanciar: es el proceoso de generar un ejemplar de una clase.
-## 1. Pilares de la POO
+## 2. Pilares de la POO
     a. Abstracción: permite identificar las características y comportamientos de un objeto.
     b. Encapsulamiento: permite ocultar el código que pertence a la parte rpivada de la clase y no puede ser vista por otro programa.
     c. Herencia: permite reutilizar las características  y comportamientos de una clase superior.
