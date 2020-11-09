@@ -27,7 +27,8 @@ Ejemplos:
 | 5.     | Convertir de binario a Decimal | [Clic para ver ejemplo](binario.php "Clic para ver ejemplo")|
 | 6.     | Ordenar de forma ascendente y descendente 20 valores numéricos almacenados en un array | [Clic para ver ejemplo](ordenar.php "Clic para ver ejemplo")|
 ----
-<div align="center"><b>Introducción a la programación orientada a objetos</b></div>
+<div align="center"><h1><b>Introducción a la programación orientada a objetos</b></h1></div>
+
  ## 1. POO
     a. Clase: son funciones especiales como las expresiondes de funciones y declaración de funciones.
     b. Objeto: unidad dentro de un programa informático que tiene un estado y un comportamiento.
